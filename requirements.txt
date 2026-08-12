@@ -1,0 +1,7 @@
+deep-translator
+customtkinter
+Pillow
+pyperclip
+langdetect
+pyttsx3
+fpdf2

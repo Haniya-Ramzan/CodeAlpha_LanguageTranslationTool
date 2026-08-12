@@ -1,0 +1,5 @@
+﻿__pycache__/
+*.pyc
+speech.mp3
+translation.mp3
+history/
