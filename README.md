@@ -349,7 +349,4 @@ https://github.com/Haniya-Ramzan/CodeAlpha_LanguageTranslationTool
 ---
 
 ## ⭐ Acknowledgement
-
-Developed as part of the **CodeAlpha Internship Program**.
-
-```
+Developed as part of the CodeAlpha Internship Program.
