@@ -355,4 +355,3 @@ https://github.com/Haniya-Ramzan/CodeAlpha_LanguageTranslationTool
 Developed as part of the **CodeAlpha Internship Program**.
 
 ```
-```
