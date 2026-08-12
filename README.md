@@ -1,4 +1,3 @@
-````markdown
 # 🌍 AI Language Translation Tool
 
 A desktop-based **AI Language Translation Tool** developed in Python as part of the **CodeAlpha Internship – Task 1**.
@@ -60,7 +59,6 @@ The application is built using Python with a graphical user interface created us
 
 ```text
 history/history.txt
-````
 
 The history contains:
 
